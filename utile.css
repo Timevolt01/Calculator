@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-center{
+    /* text-decoration: underline; */
+    font-family: cursive, Arial,sans-serif;
+    font-style: oblique;
+    font-size: xx-large;
+    text-align: center;
+}
+.cantainer{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
